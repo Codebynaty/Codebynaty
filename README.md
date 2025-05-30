@@ -15,3 +15,11 @@ Hoje sou estudante de Ciência da Computação apaixonada por tudo que conecta t
 
 Aqui no GitHub você vai encontrar meus projetos de aprendizado, experimentos, sonhos em forma de código, e como essa prática conecta todas as minhas curiosidades 💡📂.
 
+### 🧠 Tecnologias que venho explorando:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
