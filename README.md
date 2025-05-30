@@ -1,5 +1,7 @@
 ## Hi there 👋,
-[![cae0f06b69ffd86bc6b20b82624ac432](https://github.com/user-attachments/assets/db48c7a1-b4c2-4e6b-b623-1f8a8cdb7e57)](https://pin.it/3pjbmrA5P)
+![bb18d6eeccf285989da6441b3a7fd8dc](https://github.com/user-attachments/assets/1f7750e3-5048-4f3b-9ade-a3b244a3d552)
+
+
 
 🌟 Oii gente, eu sou a Natalia — mas pode me chamar de Naty! 💁‍♀️💻
 
