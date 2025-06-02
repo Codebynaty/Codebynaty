@@ -5,10 +5,8 @@
 
 🌟 Oii gente, eu sou a Natalia — mas pode me chamar de Naty! 💁‍♀️💻
 
-Ser curiosa sobre códigos, estética, cultura pop e tudo que mexe com a mente e o coração faz parte de quem eu sou — e é justamente essa mistura que me move 💖🚀.
-
-Graduanda de Ciência da Computação  e apaixonada por tudo que conecta tecnologia, mente humana e criatividade 🧠✨. 
-Tenho uma quedinha por neurociência 🧬, gosto de brincar com dados 📊, aprender sobre IA 🤖 e o mais clichê (café na mão ☕ e gatinhos 🐱). 
+Tenho 20 anos, sou graduanda de Ciência da Computação e apaixonada por tudo que conecta tecnologia, mente humana e criatividade 🧠✨. 
+Tenho uma quedinha por neurociência, gosto de brincar com dados , aprender sobre IA e o mais clichê (café na mão e gatinhos 🐱), e é justamente essa mistura que eu trago pra cá!💖
 
 Aqui no GitHub você vai encontrar meus projetos de aprendizado, experimentos, sonhos em forma de código, e como essa prática conecta todas as minhas curiosidades 💡📂.
 
