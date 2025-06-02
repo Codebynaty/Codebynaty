@@ -3,9 +3,9 @@
 
 
 
-🌟 Oii gente, eu sou a Natalia — mas pode me chamar de Naty! 💁‍♀️💻
+ Oii gente, eu sou a Natalia — mas pode me chamar de Naty! 💁‍♀️
 
-Tenho 20 anos, sou graduanda de Ciência da Computação e apaixonada por tudo que conecta tecnologia, mente humana e criatividade 🧠✨. 
+Tenho 20 anos, sou graduanda de Ciência da Computação e apaixonada por tudo que conecta tecnologia, mente humana e criatividade. 
 
 Tenho uma quedinha por neurociência, gosto de brincar com dados , aprender sobre IA e o mais clichê (café na mão e gatinhos 🐱), e é justamente essa mistura que eu trago pra cá!💖
 
