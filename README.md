@@ -19,7 +19,7 @@ Atualmente sou **estagiária de Business Intelligence na Amazon**, onde trabalho
 ### 📂 Projetos em destaque
 
 - **[Análise de Risco Geopolítico × Mercado](#)** — ferramenta em Python que mede como eventos geopolíticos afetam preço e volatilidade de ativos (petróleo, dólar, ouro). EDA aplicada ao mercado financeiro.
-- **Modelo de Prevenção a Fraudes no PIX** — modelo de ML (1º lugar no Bradesco Hackathon) para sinalizar transações fraudulentas.
+- **Modelo de Preven a o a Fraudes no PIX** — modelo de ML (1º lugar no Bradesco Hackathon) para sinalizar transações fraudulentas.
 - **Blua — Assistente de Saúde com IA** — integração de dados biométricos em tempo real via Bluetooth + aplicação full-stack.
 
 ---
