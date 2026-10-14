@@ -1,8 +1,3 @@
-## Hi there 👋,
-![bb18d6eeccf285989da6441b3a7fd8dc](https://github.com/user-attachments/assets/1f7750e3-5048-4f3b-9ade-a3b244a3d552)
-
-
-
 # Olá, eu sou a Natalia 👋
 
 Estudante de **Ciência da Computação** (FIAP) apaixonada por transformar **dados em decisões** — na interseção entre tecnologia, análise e negócio.
