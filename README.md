@@ -1,44 +1,44 @@
-# Olá, eu sou a Natalia 👋
+Computer Science student at **FIAP** building AI systems end to end, from data and models to APIs, dashboards, and deployment.
 
-
-Estudante de **Ciência da Computação (FIAP)** que constrói sistemas de IA do dado ao produto: modelos, APIs e dashboards, com deploy.
-
-- 🏦 Estagiária de **Business Intelligence na Amazon** (SQL, Python e automação)
-- 🏆 **1º lugar no Bradesco Hackathon** com um sistema de detecção de fraudes no PIX
-- 🥈 **2º lugar no Challenge Next**: Blua, assistente de saúde com IA, criado em parceria com a **Care Plus**
-- 🔭 Hoje estudo **LLMs**, avaliação rigorosa de modelos e mercado financeiro quantitativo
+- 🏦 **Business Intelligence Intern at Amazon** (SQL, Python, and automation)
+- 🏆 **1st place at the Bradesco Hackathon** with a PIX fraud detection system
+- 🥈 **2nd place at Challenge Next**: Blua, an AI-powered healthcare assistant developed in partnership with **Care Plus**
+- 🔭 Currently exploring **LLMs**, rigorous model evaluation, and quantitative finance
 
 ---
 
-## 📂 Projetos em destaque
+## 📂 Featured Projects
 
-| Projeto | O que faz | Stack |
+| **Project** | **What it does** | **Tech Stack** |
 |---|---|---|
-| [**PIX Fraud Detection**](https://github.com/Codebynaty/pix-fraud-detection) 🏆 | Sistema de detecção de fraudes no PIX que combina uma árvore de decisão (J48) com regras de negócio, score de risco e dashboard. Projeto vencedor do Bradesco Hackathon. | Java · Spring Boot · Weka · MySQL · Docker · GitHub Actions |
-| [**OrbitalGuard**](https://github.com/Codebynaty/orbitalguard-repo) | Monitoramento de barragens de mineração com radar orbital (Sentinel-1) e machine learning, com API REST e dashboard interativo. Global Solution FIAP 2026. | Python · FastAPI · scikit-learn · PyTorch · React |
-| [**Risco Geopolítico × Mercado**](https://github.com/Codebynaty/geopolitical-risk-markets) | Mede como eventos geopolíticos afetam preço e volatilidade de petróleo, dólar, ouro e Ibovespa. | Python · pandas · yfinance · matplotlib |
-
-
----
-
-## 🔧 Stack
-
-**Linguagens:** Python · Java · SQL
-**ML e dados:** pandas · scikit-learn · PyTorch · Weka · análise exploratória
-**Back-end e produto:** FastAPI · Spring Boot · APIs REST · React
-**Infra:** Git · Docker · GitHub Actions · MySQL · PostgreSQL
-**BI:** Power BI
+| [**PIX Fraud Detection**](https://github.com/Codebynaty/pix-fraud-detection) 🏆 | A PIX fraud detection system combining a J48 decision tree with business rules, risk scoring, and a dashboard. Winner of the Bradesco Hackathon. | Java · Spring Boot · Weka · MySQL · Docker · GitHub Actions |
+| [**OrbitalGuard**](https://github.com/Codebynaty/orbitalguard-repo) | Mining tailings dam monitoring using Sentinel-1 orbital radar and machine learning, featuring a REST API and interactive dashboard. Developed for FIAP Global Solution 2026. | Python · FastAPI · scikit-learn · PyTorch · React |
+| [**Geopolitical Risk × Markets**](https://github.com/Codebynaty/geopolitical-risk-markets) | Analyzes how geopolitical events affect the prices and volatility of oil, the US dollar, gold, and Brazil's Ibovespa index. | Python · pandas · yfinance · matplotlib |
 
 ---
 
-## 🌱 Em foco agora
+## 🔧 Tech Stack
 
-- Avaliação de modelos com rigor: validação temporal, métricas para dados desbalanceados e testes de vazamento
-- LLMs: pipelines de recuperação de informação (RAG) com avaliação
-- Microestrutura de mercado: motor de casamento de ordens (Limit Order Book) em Python
+**Languages:** Python · Java · SQL
+
+**Machine Learning & Data:** pandas · scikit-learn · PyTorch · Weka · Exploratory Data Analysis
+
+**Backend & Product Development:** FastAPI · Spring Boot · REST APIs · React
+
+**Infrastructure & Databases:** Git · Docker · GitHub Actions · MySQL · PostgreSQL
+
+**Business Intelligence:** Power BI
 
 ---
 
-## 📫 Contato
+## 🌱 Currently Exploring
 
-[LinkedIn](https://linkedin.com/in/nataliaalcantara-297476257) · nataliaalcantara103@gmail.com
+- **Rigorous model evaluation:** Temporal validation, metrics for imbalanced datasets, and data leakage testing
+- **LLMs:** Retrieval-Augmented Generation (RAG) pipelines with systematic evaluation
+- **Market microstructure:** Building a Limit Order Book matching engine in Python
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/nataliaalcantara-297476257) · [nataliaalcantara103@gmail.com](mailto:nataliaalcantara103@gmail.com)
