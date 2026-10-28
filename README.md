@@ -17,7 +17,7 @@ Estudante de **Ciência da Computação (FIAP)** que constrói sistemas de IA do
 | [**PIX Fraud Detection**](https://github.com/Codebynaty/pix-fraud-detection) 🏆 | Sistema de detecção de fraudes no PIX que combina uma árvore de decisão (J48) com regras de negócio, score de risco e dashboard. Projeto vencedor do Bradesco Hackathon. | Java · Spring Boot · Weka · MySQL · Docker · GitHub Actions |
 | [**OrbitalGuard**](https://github.com/Codebynaty/orbitalguard-repo) | Monitoramento de barragens de mineração com radar orbital (Sentinel-1) e machine learning, com API REST e dashboard interativo. Global Solution FIAP 2026. | Python · FastAPI · scikit-learn · PyTorch · React |
 | [**Risco Geopolítico × Mercado**](https://github.com/Codebynaty/geopolitical-risk-markets) | Mede como eventos geopolíticos afetam preço e volatilidade de petróleo, dólar, ouro e Ibovespa. | Python · pandas · yfinance · matplotlib |
-| **Blua: assistente de saúde com IA** | Integra dados biométricos em tempo real via Bluetooth numa aplicação full-stack. [link do repositório] | [stack] |
+
 
 ---
 
