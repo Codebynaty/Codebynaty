@@ -1,44 +1,44 @@
 # Olá, eu sou a Natalia 👋
 
-Estudante de **Ciência da Computação** (FIAP) apaixonada por transformar **dados em decisões** — na interseção entre tecnologia, análise e negócio.
 
-Atualmente sou **estagiária de Business Intelligence na Amazon**, onde trabalho com SQL, Python e automação para transformar grandes volumes de dados em insights para o negócio. Fora do trabalho, gosto de construir projetos próprios que aplicam dados a problemas reais — de mercado financeiro a saúde.
+Estudante de **Ciência da Computação (FIAP)** que constrói sistemas de IA do dado ao produto: modelos, APIs e dashboards, com deploy.
 
-🏆 1º lugar no **Bradesco Hackathon** com um modelo de machine learning para detecção de fraude no PIX.
-
----
-
-### 🔧 O que uso
-
-**Dados & Análise:** Python (Pandas) · SQL · análise exploratória (EDA) · Power BI
-**Machine Learning:** scikit-learn · classificação · feature engineering
-**Outros:** Git · APIs · automação de processos · ferramentas de IA no fluxo de trabalho
+- 🏦 Estagiária de **Business Intelligence na Amazon** (SQL, Python e automação)
+- 🏆 **1º lugar no Bradesco Hackathon** com um sistema de detecção de fraudes no PIX
+- 🥈 **2º lugar no Challenge Next**: Blua, assistente de saúde com IA, criado em parceria com a **Care Plus**
+- 🔭 Hoje estudo **LLMs**, avaliação rigorosa de modelos e mercado financeiro quantitativo
 
 ---
 
-### 📂 Projetos em destaque
+## 📂 Projetos em destaque
 
-- 🏆 **[Detecção de Fraudes no PIX](https://github.com/Codebynaty/pix-fraud-detection)** — 1º lugar no Bradesco Hackathon. Modelo de machine learning que sinaliza transações fraudulentas, priorizando [recall / precisão] para reduzir fraudes não detectadas. Resultado: [recall de X% e precisão de Y% em dados de teste]. `Python` `scikit-learn`
-- 📈 **[Risco Geopolítico × Mercado](https://github.com/Codebynaty/geopolitical-risk-markets)** — ferramenta que mede como eventos geopolíticos impactam o preço e a volatilidade de petróleo, dólar e ouro. Achado principal: [ex.: o ouro reage em até X dias a eventos do tipo Y]. `Python` `Pandas` `EDA`
-- 🩺 **[Blua — Assistente de Saúde com IA](https://github.com/Codebynaty/NOME_DO_REPO_BLUA)** — aplicação full-stack que integra dados biométricos em tempo real via Bluetooth e gera [orientações / alertas] com IA. `[tecnologias do front/back]`
-- 📉 **[Previsão de Churn com MLP](https://github.com/Codebynaty/telco-churn-mlp)** — comparação de 9 arquiteturas de rede neural em condições controladas, sem vazamento de dados. Recall de 76,5% no teste na identificação de clientes que cancelam. `TensorFlow` `scikit-learn`
-
----
-
-### 🌱 No momento
-
-Estudando **análise de dados**, **machine learning** e mercado financeiro — sempre buscando o próximo problema interessante pra resolver com dados.
+| Projeto | O que faz | Stack |
+|---|---|---|
+| [**PIX Fraud Detection**](https://github.com/Codebynaty/pix-fraud-detection) 🏆 | Sistema de detecção de fraudes no PIX que combina uma árvore de decisão (J48) com regras de negócio, score de risco e dashboard. Projeto vencedor do Bradesco Hackathon. | Java · Spring Boot · Weka · MySQL · Docker · GitHub Actions |
+| [**OrbitalGuard**](https://github.com/Codebynaty/orbitalguard-repo) | Monitoramento de barragens de mineração com radar orbital (Sentinel-1) e machine learning, com API REST e dashboard interativo. Global Solution FIAP 2026. | Python · FastAPI · scikit-learn · PyTorch · React |
+| [**Risco Geopolítico × Mercado**](https://github.com/Codebynaty/geopolitical-risk-markets) | Mede como eventos geopolíticos afetam preço e volatilidade de petróleo, dólar, ouro e Ibovespa. | Python · pandas · yfinance · matplotlib |
+| **Blua: assistente de saúde com IA** | Integra dados biométricos em tempo real via Bluetooth numa aplicação full-stack. [link do repositório] | [stack] |
 
 ---
 
+## 🔧 Stack
 
-### 🧠 Tecnologias que venho explorando:
+**Linguagens:** Python · Java · SQL
+**ML e dados:** pandas · scikit-learn · PyTorch · Weka · análise exploratória
+**Back-end e produto:** FastAPI · Spring Boot · APIs REST · React
+**Infra:** Git · Docker · GitHub Actions · MySQL · PostgreSQL
+**BI:** Power BI
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+---
 
+## 🌱 Em foco agora
 
-### 📫 Vamos conversar
+- Avaliação de modelos com rigor: validação temporal, métricas para dados desbalanceados e testes de vazamento
+- LLMs: pipelines de recuperação de informação (RAG) com avaliação
+- Microestrutura de mercado: motor de casamento de ordens (Limit Order Book) em Python
+
+---
+
+## 📫 Contato
 
 [LinkedIn](https://linkedin.com/in/nataliaalcantara-297476257) · nataliaalcantara103@gmail.com
