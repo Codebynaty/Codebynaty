@@ -18,9 +18,10 @@ Atualmente sou **estagiária de Business Intelligence na Amazon**, onde trabalho
 
 ### 📂 Projetos em destaque
 
-- **[Análise de Risco Geopolítico × Mercado](#)** — ferramenta em Python que mede como eventos geopolíticos afetam preço e volatilidade de ativos (petróleo, dólar, ouro). EDA aplicada ao mercado financeiro.
-- **Modelo de Preven a o a Fraudes no PIX** — modelo de ML (1º lugar no Bradesco Hackathon) para sinalizar transações fraudulentas.
-- **Blua — Assistente de Saúde com IA** — integração de dados biométricos em tempo real via Bluetooth + aplicação full-stack.
+- 🏆 **[Detecção de Fraudes no PIX](https://github.com/Codebynaty/pix-fraud-detection)** — 1º lugar no Bradesco Hackathon. Modelo de machine learning que sinaliza transações fraudulentas, priorizando [recall / precisão] para reduzir fraudes não detectadas. Resultado: [recall de X% e precisão de Y% em dados de teste]. `Python` `scikit-learn`
+- 📈 **[Risco Geopolítico × Mercado](https://github.com/Codebynaty/geopolitical-risk-markets)** — ferramenta que mede como eventos geopolíticos impactam o preço e a volatilidade de petróleo, dólar e ouro. Achado principal: [ex.: o ouro reage em até X dias a eventos do tipo Y]. `Python` `Pandas` `EDA`
+- 🩺 **[Blua — Assistente de Saúde com IA](https://github.com/Codebynaty/NOME_DO_REPO_BLUA)** — aplicação full-stack que integra dados biométricos em tempo real via Bluetooth e gera [orientações / alertas] com IA. `[tecnologias do front/back]`
+- 📉 **[Previsão de Churn com MLP](https://github.com/Codebynaty/telco-churn-mlp)** — comparação de 9 arquiteturas de rede neural em condições controladas, sem vazamento de dados. Recall de 76,5% no teste na identificação de clientes que cancelam. `TensorFlow` `scikit-learn`
 
 ---
 
