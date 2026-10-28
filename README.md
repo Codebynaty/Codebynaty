@@ -1,3 +1,5 @@
+# HII, I'm Natalia 👋
+
 Computer Science student at **FIAP** building AI systems end to end, from data and models to APIs, dashboards, and deployment.
 
 - 🏦 **Business Intelligence Intern at Amazon** (SQL, Python, and automation)
